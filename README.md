@@ -14,12 +14,4 @@ Backend: Node.js, Express.js
 Database: MongoDB (Mongoose ORM)
 Version Control: Git & GitHub
 
-Backend Setup
-cd Backend
-npm install
-npm start
 
-Frontend Setup
-cd Frontend
-npm install
-npm start
